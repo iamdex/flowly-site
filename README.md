@@ -1,6 +1,8 @@
 # Flowly — website
 
-Static site for [Flowly](https://apps.apple.com/app/id6829690402), published with GitHub Pages.
-Italian at `/`, English at `/en/`. Edit `build.py`, then run `python3 build.py`.
+Static site for Flowly, published with GitHub Pages. Italian at `/`, English at `/en/`.
 
-Fonts: Manrope and Nunito (SIL Open Font License, see `assets/fonts/`).
+- Copy: `CONTENT` in `build.py` (one dictionary per language).
+- Build: `python3 build.py` (no dependencies).
+- Images: `assets/<name>.jpg` and `assets/<name>-night.jpg` (light/dark), names used in `build.py`.
+- Font: Manrope (SIL Open Font License, `assets/fonts/`).
