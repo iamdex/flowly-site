@@ -1,6 +1,6 @@
-# Flowly — website
+# Ristretto — website
 
-Static site for Flowly, published with GitHub Pages. Italian at `/`, English at `/en/`.
+Static site for Ristretto, published with GitHub Pages. Italian at `/`, English at `/en/`.
 
 - Copy: `CONTENT` in `build.py` (one dictionary per language).
 - Build: `python3 build.py` (no dependencies).

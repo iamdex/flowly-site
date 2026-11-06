@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="240 286 544 454">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="232 233 560 560">
   <defs>
     <mask id="cut-src" maskUnits="userSpaceOnUse" x="0" y="0" width="1024" height="1024">
       <rect width="1024" height="1024" fill="white"/>
-      <path d="M 300 300 C 400 470 600 420 640 560 C 670 660 640 720 620 790" fill="none" stroke="black" stroke-width="44" stroke-linecap="round"/>
+      <path d="M 215 545 C 340 440 430 455 512 515 C 594 575 684 590 809 485" fill="none" stroke="black" stroke-width="46" stroke-linecap="round"/>
     </mask>
   </defs>
-  <path d="M 515 300 C 652 296 762 392 770 528 C 777 652 684 724 512 726 C 343 728 249 655 254 538 C 259 410 372 304 515 300 Z" fill="#C96A2B" mask="url(#cut-src)"/></svg>
+  <g transform="rotate(-32 512 513)"><path d="M 515 300 C 652 296 762 392 770 528 C 777 652 684 724 512 726 C 343 728 249 655 254 538 C 259 410 372 304 515 300 Z" fill="#D07032" mask="url(#cut-src)"/></g></svg>
